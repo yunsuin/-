@@ -5,4 +5,4 @@
 + if문장 
   + if ... : 명령문 elif ... : 명령문 else : 
 + for문 : 반복문 => range()
-+ while
++ while문
