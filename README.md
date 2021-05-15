@@ -6,3 +6,4 @@
   + if ... : 명령문 elif ... : 명령문 else : 
 + for문 : 반복문 => range()
 + while문
+## 05.14 : 컬렉션 자료형 (python02.ipynb)
